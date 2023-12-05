@@ -7,7 +7,7 @@ def main():
     Sends a POST request to an API endpoint to add a cryptocurrency address document.
     Prints the response content in a human-readable format.
     """
-    api_url = "https://ecx3-stage.ecrimex.net/api/v1/cryptocurrency-addresses"
+    api_url = "https://sandbox.ecx2.ecrimex.net/api/v1/cryptocurrency-addresses"
     
     # use your own api key! this is an example do not commit your secret key
     api_token = ""

@@ -7,7 +7,7 @@ def main():
     Sends a POST request to an API endpoint to search for a malicious domain.
     Prints the response content in a human-readable format.
     """
-    api_url = "https://ecx3-stage.ecrimex.net/api/v1/malicious-domain/search"
+    api_url = "https://sandbox.ecx2.ecrimex.net/api/v1/malicious-domain/search"
 
     # use your own api key! this is an example do not commit your secret key
     api_token = ""

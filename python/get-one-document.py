@@ -8,7 +8,7 @@ def main():
     Prints the response content in a human-readable format.
     """
     document_id = "108866279"
-    api_url = "https://ecx3-stage.ecrimex.net/api/v1/phish/" + document_id
+    api_url = "https://sandbox.ecx2.ecrimex.net/api/v1/phish/" + document_id
 
     # use your own api key! this is an example do not commit your secret key
     api_token = ""

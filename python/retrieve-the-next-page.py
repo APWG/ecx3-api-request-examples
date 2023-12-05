@@ -8,7 +8,7 @@ def main():
     Prints the response content in a human-readable format.
     """
     module_name = "mal-ip"
-    api_url = "https://ecx3-stage.ecrimex.net/api/v1/" + module_name
+    api_url = "https://sandbox.ecx2.ecrimex.net/api/v1/" + module_name
     
     # use your own api key! this is an example do not commit your secret key
     api_token = ""
