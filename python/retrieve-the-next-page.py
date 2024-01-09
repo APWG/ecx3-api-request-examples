@@ -7,7 +7,7 @@ def main():
     Retrieves the next page of a previous search results
     Prints the response content in a human-readable format.
     """
-    module_name = "mal-ip"
+    module_name = "malicious-ip"
     api_url = "https://sandbox.ecx2.ecrimex.net/api/v1/" + module_name
     
     # use your own api key! this is an example do not commit your secret key
